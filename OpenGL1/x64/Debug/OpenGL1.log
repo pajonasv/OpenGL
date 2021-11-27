@@ -1,0 +1,27 @@
+﻿  OpenGL1.cpp
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(160,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(160,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(160,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(160,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(162,10): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(162,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(162,29): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(162,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(186,16): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(186,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(186,25): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(186,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(187,16): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(187,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(187,28): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(187,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(209,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(209,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(209,21): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(209,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(210,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(210,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(210,25): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\marat\source\repos\OpenGL1\OpenGL1\OpenGL1.cpp(210,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL1.vcxproj -> C:\Users\marat\source\repos\OpenGL1\x64\Debug\OpenGL1.exe
